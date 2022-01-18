@@ -12,11 +12,11 @@
 
 ### Why Are You?
 
-⚡ &nbsp; I am a Software Engineer because I love to create digital experiences that enrich people’s lives.
+▸ I am a Software Engineer because I love to create digital experiences that enrich people’s lives.
 
-⚡ &nbsp; I have a relentless commitment to quality and continuous growth. I love to learn, mentor, and work in driven teams.
+▸ I have a relentless commitment to quality and continuous growth. I love to learn, mentor, and work in driven teams.
 
-⚡ &nbsp; I am engaging with other Prescryptive engineers to develop digital health platforms that empower consumers.
+▸ I am engaging with other Prescryptive engineers to develop digital health platforms that empower consumers.
 
 ### What Do You Do?
 
