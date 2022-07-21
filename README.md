@@ -8,8 +8,6 @@
 
 ⚡ &nbsp; Collaborate with me on [GitHub](https://github.com/jacksonmccluskey)
 
-⚡ &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/jacksonmccluskey/)
-
 ### Why Are You?
 
 ▸ I am a Software Engineer because I love to create digital experiences that enrich people’s lives.
