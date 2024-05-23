@@ -1,17 +1,17 @@
 <h1 align="center">Hi 😁, I'm Jackson</h1>
-<h3 align="center">Founder @ Makari 🌊 Dive deeper with your ocean data.</h3>
+<h3 align="center">Founder @ Makari 🛰️ Effortless Insights From Your Devices Anywhere</h3>
 
-- 🔭 I’m currently working on **maritime transportation IoT**
+- 🔭 I’m currently working on **an IoT platform for remote, satellite-connected devices**
 
 - 🌱 I’m currently learning **how to make something people want**
 
-- 👯 I’m looking to collaborate on **sensor data analytics**
+- 👯 I’m looking to collaborate on **implementing machine learning algorithms on IoT device sensor data**
 
-- 🤝 I’m looking for help with **training algorithms with oceanic and atmospheric data**
+- 🤝 Join my network of **IoT data analysts, scientists, and developers**
 
 - 💬 Ask me about **satellite telemetry systems**
 
-- 📫 How to reach me **https://makari.company**
+- 📫 How to reach me **[@jacksonmccluskey](https://linkedin.com/in/jacksonmccluskey)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
