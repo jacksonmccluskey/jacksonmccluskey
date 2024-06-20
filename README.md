@@ -1,15 +1,14 @@
 <h1 align="center">Hi 😁, I'm Jackson</h1>
-<h3 align="center">Founder @ Makari 🛰️ Effortless Insights From Your Devices Anywhere</h3>
+<h3 align="center">Founder @ Makari - Effortless Device Data Anywhere</h3>
+<h1 align="center">🌎 ➞ 🛰️ ➞ ☁️ ➞📱</h1>
 
 - 🔭 I’m currently working on **an IoT platform for remote, satellite-connected devices**
 
-- 🌱 I’m currently learning **how to make something people want**
+- 👯 I’m looking to collaborate on **a remote Internet of Things (IoT) platform**
 
-- 👯 I’m looking to collaborate on **implementing machine learning algorithms on IoT device sensor data**
+- 🤝 Join my network of **data engineers, software developers, and scientists**
 
-- 🤝 Join my network of **IoT data analysts, scientists, and developers**
-
-- 💬 Ask me about **satellite telemetry systems**
+- 💬 Ask me about **bi-directional data transfer using satellite telemetry systems**
 
 - 📫 How to reach me **[@jacksonmccluskey](https://linkedin.com/in/jacksonmccluskey)**
 
