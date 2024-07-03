@@ -4,6 +4,13 @@
 
 - 🔭 I’m currently working on **an IoT platform for remote, satellite-connected devices**
 
+  - [Iridium Short Burst Data (SBD) Unofficial Data Engineering Systems](https://github.com/jacksonmccluskey/short-burst-data)
+  - [Universal Payload Conversion Algorithms](https://github.com/jacksonmccluskey/payload)
+  - [Simulate Satellite Telemetry HTTPS Requests & TCP Connections](https://github.com/jacksonmccluskey/satellite-telemetry-simulator)
+  - [Tracking Time Of Events](https://github.com/jacksonmccluskey/time)
+  - [IoT Telemetry Pricing Calculator](https://github.com/jacksonmccluskey/iot-telemetry-pricing-calculator)
+  - [Deploying Services on Amazon Linux 2023](https://github.com/jacksonmccluskey/amazon-linux-2023-deployment)
+
 - 👯 I’m looking to collaborate on **a remote Internet of Things (IoT) platform**
 
 - 🤝 Join my network of **data engineers, software developers, and scientists**
