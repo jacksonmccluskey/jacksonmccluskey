@@ -2,14 +2,7 @@
 <h3 align="center">Founder @ Makari - Effortless Device Data Anywhere</h3>
 <h1 align="center">🌎 ➞ 🛰️ ➞ ☁️ ➞📱</h1>
 
-- 🔭 I’m currently working on **an IoT platform for remote, satellite-connected devices**
-
-  - [Simulate Satellite Telemetry HTTPS Requests & TCP Connections](https://github.com/jacksonmccluskey/satellite-telemetry-simulator)
-  - [Universal Payload Conversion Algorithms](https://github.com/jacksonmccluskey/payload)
-  - [Tracking Time Of Events](https://github.com/jacksonmccluskey/time)
-  - [Easily Build & Call APIs for Time-Series Data](https://github.com/jacksonmccluskey/time-series-api-builder)
-
-- 👯 I’m looking to collaborate on **a remote Internet of Things (IoT) platform**
+- 🔭 I’m looking to collaborate on **a remote, satellite-connected Internet of Things (IoT) platform**
 
 - 🤝 Join my network of **data engineers, software developers, and scientists**
 
