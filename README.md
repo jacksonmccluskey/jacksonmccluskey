@@ -1,6 +1,6 @@
 <div align="center">
 
-![Jackson McCluskey — GitHub](./assets/mission-control.svg)
+![Jackson McCluskey — GitHub](./mission-control.svg)
 
 # Jackson McCluskey
 
