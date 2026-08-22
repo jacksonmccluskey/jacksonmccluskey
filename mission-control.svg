@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jackson McCluskey Mission Control</title>
+  <desc id="desc">An animated satellite carries telemetry from a remote ground station to a connected product.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#04130f" />
+      <stop offset="0.55" stop-color="#08271e" />
+      <stop offset="1" stop-color="#0b382b" />
+    </linearGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#123f33" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#37b995" stop-opacity="0.75" />
+      <stop offset="1" stop-color="#123f33" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#4ee0b5" stop-opacity="0.45" />
+      <stop offset="1" stop-color="#4ee0b5" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8bd7c2" stroke-opacity="0.055" stroke-width="1" />
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <clipPath id="frameClip">
+      <rect x="1" y="1" width="1198" height="358" rx="22" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frameClip)">
+    <rect width="1200" height="360" fill="url(#background)" />
+    <rect width="1200" height="360" fill="url(#grid)" />
+    <ellipse cx="600" cy="338" rx="520" ry="72" fill="url(#glow)" opacity="0.55" />
+
+    <g fill="#d8fff3">
+      <circle cx="86" cy="65" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite" /></circle>
+      <circle cx="214" cy="102" r="1"><animate attributeName="opacity" values="0.25;0.8;0.25" dur="4.4s" begin="-.8s" repeatCount="indefinite" /></circle>
+      <circle cx="348" cy="52" r="1.2"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.7s" begin="-1.4s" repeatCount="indefinite" /></circle>
+      <circle cx="812" cy="72" r="1"><animate attributeName="opacity" values="0.25;1;0.25" dur="4.1s" begin="-2s" repeatCount="indefinite" /></circle>
+      <circle cx="1018" cy="104" r="1.5"><animate attributeName="opacity" values="0.2;0.85;0.2" dur="3.4s" begin="-.4s" repeatCount="indefinite" /></circle>
+      <circle cx="1117" cy="54" r="1"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="5s" begin="-1.2s" repeatCount="indefinite" /></circle>
+    </g>
+
+    <text x="58" y="56" fill="#8bd7c2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">MISSION CONTROL / ONLINE</text>
+    <circle cx="36" cy="51" r="5" fill="#4ee0b5" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="1.6s" repeatCount="indefinite" />
+    </circle>
+
+    <text x="600" y="104" text-anchor="middle" fill="#f4fbf8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="34" font-weight="700" letter-spacing="1">JACKSON MCCLUSKEY</text>
+    <text x="600" y="132" text-anchor="middle" fill="#9bd9c8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3">REMOTE SIGNALS → RELIABLE PRODUCTS</text>
+
+    <path d="M150 272 C365 110 835 110 1050 272" fill="none" stroke="#70cdb3" stroke-opacity="0.42" stroke-width="1.5" stroke-dasharray="7 8" />
+    <path d="M110 302 H1090" fill="none" stroke="url(#horizon)" stroke-width="2" />
+
+    <g transform="translate(150 270)" stroke="#b7f2e1" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-27 7 Q-5 30 17 7" stroke-width="4" />
+      <path d="M-8 23 L-8 43 M-25 43 H12" stroke-width="3" />
+      <path d="M-23 9 L8-22" stroke-width="3" />
+      <circle cx="9" cy="-23" r="4" fill="#4ee0b5" stroke="none" />
+      <path d="M15 -30 Q30 -16 18 0" stroke="#4ee0b5" stroke-width="2" opacity="0.8">
+        <animate attributeName="opacity" values="0.15;0.9;0.15" dur="1.8s" repeatCount="indefinite" />
+      </path>
+      <path d="M22 -38 Q46 -16 26 8" stroke="#4ee0b5" stroke-width="1.5" opacity="0.45">
+        <animate attributeName="opacity" values="0.1;0.65;0.1" dur="1.8s" begin="-.35s" repeatCount="indefinite" />
+      </path>
+    </g>
+
+    <g transform="translate(1050 270)">
+      <rect x="-42" y="-36" width="84" height="68" rx="10" fill="#0c2d24" stroke="#83d9c0" stroke-width="2" />
+      <rect x="-27" y="-20" width="54" height="8" rx="4" fill="#37b995" opacity="0.85" />
+      <rect x="-27" y="-3" width="36" height="6" rx="3" fill="#5d9f8e" />
+      <rect x="-27" y="11" width="46" height="6" rx="3" fill="#5d9f8e" opacity="0.72" />
+      <circle cx="30" cy="-24" r="4" fill="#4ee0b5">
+        <animate attributeName="opacity" values="0.35;1;0.35" dur="1.4s" repeatCount="indefinite" />
+      </circle>
+    </g>
+
+    <g filter="url(#softGlow)">
+      <circle r="4" fill="#75f1cc">
+        <animateMotion dur="4.2s" repeatCount="indefinite" path="M150 272 C365 110 835 110 1050 272" />
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.88;1" dur="4.2s" repeatCount="indefinite" />
+      </circle>
+      <circle r="2.5" fill="#d8fff3">
+        <animateMotion dur="4.2s" begin="-1.35s" repeatCount="indefinite" path="M150 272 C365 110 835 110 1050 272" />
+        <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.08;0.88;1" dur="4.2s" begin="-1.35s" repeatCount="indefinite" />
+      </circle>
+      <circle r="2.5" fill="#d8fff3">
+        <animateMotion dur="4.2s" begin="-2.7s" repeatCount="indefinite" path="M150 272 C365 110 835 110 1050 272" />
+        <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.08;0.88;1" dur="4.2s" begin="-2.7s" repeatCount="indefinite" />
+      </circle>
+    </g>
+
+    <g transform="translate(600 160)">
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="165 238;330 188;600 160;870 188;1035 238;870 188;600 160;330 188;165 238"
+        keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1"
+        dur="10s"
+        repeatCount="indefinite"
+      />
+      <g transform="rotate(-12)">
+        <rect x="-17" y="-11" width="34" height="22" rx="5" fill="#d8fff3" stroke="#4e9d87" stroke-width="2" />
+        <rect x="-50" y="-9" width="28" height="18" rx="2" fill="#1c6956" stroke="#83d9c0" />
+        <rect x="22" y="-9" width="28" height="18" rx="2" fill="#1c6956" stroke="#83d9c0" />
+        <path d="M-22 0 H-17 M17 0 H22 M0 -11 V-21" stroke="#b7f2e1" stroke-width="2" />
+        <circle cx="0" cy="-23" r="3" fill="#4ee0b5" />
+      </g>
+    </g>
+
+    <text x="150" y="332" text-anchor="middle" fill="#8bd7c2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2">REMOTE DEVICE</text>
+    <text x="600" y="332" text-anchor="middle" fill="#8bd7c2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2">SATELLITE DATA LINK</text>
+    <text x="1050" y="332" text-anchor="middle" fill="#8bd7c2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2">CUSTOMER PRODUCT</text>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="358" rx="22" fill="none" stroke="#2b6f5d" stroke-width="2" />
+</svg>
